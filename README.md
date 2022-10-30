@@ -4,6 +4,7 @@ This repository is mainly for listing my data project for job application purpos
 
 ## Data Analysis Project
 1. [Probability Analysis and Hypothesis Testing on Medical Insurance Dataset](https://github.com/hilmikh/Medical-Insurance-Cost-Probability-Analysis)
+2. [BBCA-Volume-Timeseries-Analysis](https://github.com/hilmikh/BBCA-Volume-Analysis)
 
 ## Data Visualization
 1. GDP Changes during COVID Pandemic Tableau Dashboard
